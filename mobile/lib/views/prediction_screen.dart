@@ -80,7 +80,7 @@ class _PredictionScreenState extends State<PredictionScreen> {
               ),
               const SizedBox(height: 10),
               const Text(
-                'Use images of your breast X-ray. The images should be in JPEG format and have a 4:3 aspect ratio.',
+                'Use images of your breast X-ray. The images should be in JPEG, JPG or PNG format.',
                 style: TextStyle(fontSize: 16),
               ),
               const SizedBox(height: 20),
